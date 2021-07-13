@@ -1,0 +1,24 @@
+{
+  "name": "quiz-facilitator",
+  "version": "1.0.0",
+  "description": "get all questions and options from google form and all questions from microsoft form",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "google-forms",
+    "hack",
+    "google",
+    "form",
+    "microsoft",
+    "form",
+    "scrapper",
+    "questions-scrapper"
+  ],
+  "author": "Dharmi Kumbhani",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.1.0",
+    "tall": "^4.0.1"
+  }
+}
