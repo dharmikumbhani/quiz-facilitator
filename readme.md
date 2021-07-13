@@ -43,7 +43,7 @@ Not actively developing this. I had made this as a helper script for my exams an
 - [ ] Enable getting links to images wherever there are images as question
 - [ ] In Microsoft form getting all the Qs and Options when using `node getMF examplelink.com QwO ` and not just the question and options visible in the firstt section
 - [ ] Figure out a way to bypass organisations restrictions in microsoft forms
-- [ ] Use a webdrivers to autofill random answers and submit with a random email id, with the small chance that in google forms you get the answer sheet with correct responses after submmission. This answer sheet could be converted to pdf using puppetter exported. 
+- [ ] Use a webdrivers to autofill random answers and submit with a random email id, with the small chance that in google forms you get the answer sheet with correct responses after submmission. This answer sheet could be converted to pdf using puppetter exported. https://www.notion.so/Week-planner-9573208b56e74a4895731b155f586113#2703b738d709410ca526fc30e0e8bc9e
 - [ ] Provide direct google search links with the question as the search query, assuming that the person who is using it, his ideal next step would be to go and look up google for answers.
 - [ ] In a distant fututre having an opensource website where all students can collaborate anonymously to help each other pass exams using a voting based system to the answers.
 - [ ] There is a way where you can hide the application from being capture in screencapture, Maybe add that too to get saved from remote proctoring.
