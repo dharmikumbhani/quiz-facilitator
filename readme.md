@@ -1,5 +1,5 @@
 # quiz-facilitator
-A node script that get all the questions and/or options asked in a google or microsoft form.
+A node script that get all the questions and/or options asked in a google or Microsoft form.
 Helpful in cheating in exams.
 
 > **_NOTE:_** &nbsp; Make sure that the links to the forms that you use are open and not locked to certain organisation.
