@@ -46,3 +46,4 @@ Not actively developing this. I had made this as a helper script for my exams an
 - [ ] Use a webdrivers to autofill random answers and submit with a random email id, with the small chance that in google forms you get the answer sheet with correct responses after submmission. This answer sheet could be converted to pdf using puppetter exported. 
 - [ ] Provide direct google search links with the question as the search query, assuming that the person who is using it, his ideal next step would be to go and look up google for answers.
 - [ ] In a distant fututre having an opensource website where all students can collaborate anonymously to help each other pass exams using a voting based system to the answers.
+- [ ] There is a way where you can hide the application from being capture in screencapture, Maybe add that too to get saved from remote proctoring.
